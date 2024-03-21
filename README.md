@@ -1,7 +1,6 @@
-## DLI-deep-learning:
+# DLI-deep-learning:
 This repository is a collection of interactive Python notebooks used in NVIDIA's Deep Learning course. 
 [NVIDIA NGC](https://www.nvidia.com/en-us/gpu-cloud/) and [JupyterLab](https://jupyter.org/) were used for these projects.
----
 
 ## Index
 
